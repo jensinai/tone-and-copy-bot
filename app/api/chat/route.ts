@@ -20,7 +20,7 @@ export async function POST(req: Request) {
     stream: true,
     messages: [
       {
-        role: 'Design Bot',
+        role: 'System',
         // Note: This has to be the same system prompt as the one
         // used in the fine-tuning dataset
         content:
