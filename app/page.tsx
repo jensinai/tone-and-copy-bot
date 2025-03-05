@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "How should I structure microcopy?",
+  "What's the right way to write call-to-action buttons",
+  "How should I write confirmation dialogs",
 ];
 
 export default function Chat() {
@@ -83,10 +83,10 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              UXorcist 
             </h1>
             <p className="text-gray-500">
-              I'm part of a series of computational experiments taught by{" "}
+              Banishing bad UI one tooltip at a time!{" "}
               <a
                 href="https://linkin.bio/yallahalim/"
                 target="_blank"
