@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: "AI Interface Example",
+  title: "UXorcist",
   description:
-    "AI Interface Example Description"
+    "AI copy ghost writer"
 }
 
 export default function RootLayout({
