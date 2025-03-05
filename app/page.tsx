@@ -88,8 +88,8 @@ export default function Chat() {
             <p className="text-gray-500">
               Banishing bad UI one tooltip at a time
              </p>
-            <p className="text-gray-500">
-              - haunted by {" "}.
+            <p className="text-gray-200">
+              Haunted by {" "}.
               <a
                 href="https://www.linkedin.com/in/jenniferdelozier/"
                 target="_blank"
