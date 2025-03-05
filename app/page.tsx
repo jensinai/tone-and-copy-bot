@@ -88,7 +88,7 @@ export default function Chat() {
             <p className="text-gray-500">
               Banishing bad UI one tooltip at a time!{" "}
               <a
-                href="https://linkin.bio/yallahalim/"
+                href="https://www.linkedin.com/in/jenniferdelozier/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
