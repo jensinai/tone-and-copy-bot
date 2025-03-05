@@ -89,7 +89,7 @@ export default function Chat() {
               Your AI ghost writer, banishing bad UI one tooltip at a time
              </p>
             <p className="text-gray-400">
-              Haunted by {" "}.
+              Haunted by {" "}
               <a
                 href="https://www.linkedin.com/in/jenniferdelozier/"
                 target="_blank"
