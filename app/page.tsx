@@ -166,36 +166,6 @@ export default function Chat() {
             )}
           </button>
         </form>
-        <p className="text-center text-xs text-gray-400">
-          Built with{" "}
-          <a
-            href="https://sdk.vercel.ai/docs"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-black"
-          >
-            Vercel AI SDK
-          </a>
-          ,{" "}
-          <a
-            href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-black"
-          >
-            OpenAI GPT-3.5-turbo, as part of a course taught by
-          </a>{" "}
-          Halim Madi.{" "}
-          <a
-            href="https://linkin.bio/yallahalim/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="transition-colors hover:text-black"
-          >
-            Learn to build your own
-          </a>
-          .
-        </p>
       </div>
     </main>
   );
