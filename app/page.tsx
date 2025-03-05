@@ -86,7 +86,7 @@ export default function Chat() {
               UXorcist 
             </h1>
             <p className="text-gray-700">
-              Banishing bad UI one tooltip at a time
+              Your AI ghost writer, banishing bad UI one tooltip at a time
              </p>
             <p className="text-gray-400">
               Haunted by {" "}.
