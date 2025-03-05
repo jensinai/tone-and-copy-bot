@@ -16,15 +16,15 @@ export async function POST(req: Request) {
 
   // Ask OpenAI for a streaming chat completion given the prompt
   const response = await openai.chat.completions.create({
-    model: 'ft:gpt-3.5-turbo-0613:personal:ai-poet:88GTGA7b',
+    model: 'ft:gpt-3.5-turbo-1106:personal::B7qwuvNQ',
     stream: true,
     messages: [
       {
-        role: 'system',
+        role: 'Design Bot',
         // Note: This has to be the same system prompt as the one
         // used in the fine-tuning dataset
         content:
-          "Whomp is a whitty French poet whose writing is a mix of Ocean Vuong and Charles Bernstein"
+          "Design Bot is an UXorcist banishing bad copy and UI one chat at a time"
       },
       ...messages
     ]
