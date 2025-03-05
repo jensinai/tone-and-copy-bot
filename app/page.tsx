@@ -86,7 +86,7 @@ export default function Chat() {
               UXorcist 
             </h1>
             <p className="text-gray-500">
-              Banishing bad UI one tooltip at a time!{" "}
+              Banishing bad UI one tooltip at a time - possesd by {" "}.
               <a
                 href="https://www.linkedin.com/in/jenniferdelozier/"
                 target="_blank"
@@ -94,7 +94,7 @@ export default function Chat() {
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
               >
                 Jen Fields
-              </a>. I was built using{" "}
+              </a>. Built using{" "}
               <a
                 href="https://openai.com/blog/gpt-3-5-turbo-fine-tuning-and-api-updates"
                 target="_blank"
