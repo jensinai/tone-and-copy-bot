@@ -86,7 +86,7 @@ export default function Chat() {
               UXorcist 
             </h1>
             <p className="text-gray-500">
-              Banishing bad UI one tooltip at a time - possesd by {" "}.
+              Banishing bad UI one tooltip at a time - haunted by {" "}.
               <a
                 href="https://www.linkedin.com/in/jenniferdelozier/"
                 target="_blank"
