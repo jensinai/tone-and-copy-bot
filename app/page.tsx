@@ -59,8 +59,8 @@ export default function Chat() {
                   <UserIcon />
                 ) : (
                   <Image
-                    src="/sample-image.png"
-                    alt="sample-image"
+                    src="/ghost-icon.jpg"
+                    alt="ghost-image"
                     width={36}
                     height={36}
                   />
@@ -76,8 +76,8 @@ export default function Chat() {
         <div className="border-gray-200sm:mx-0 mx-5 mt-20 max-w-screen-md rounded-md border sm:w-full">
           <div className="flex flex-col space-y-4 p-7 sm:p-10">
             <Image
-              src="/sample-image.png"
-              alt="sample-image"
+              src="/ghost-icon.jpg"
+              alt="ghost-image"
               width={40}
               height={40}
               className="h-20 w-20"
